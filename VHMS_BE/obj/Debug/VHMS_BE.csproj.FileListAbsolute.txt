@@ -1,0 +1,66 @@
+D:\VHMS\VHMS_BE\bin\Debug\VHMS_BE.dll
+D:\VHMS\VHMS_BE\bin\Debug\VHMS_BE.pdb
+D:\VHMS\VHMS_BE\obj\Debug\VHMS_BE.dll
+D:\VHMS\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_Sep202016\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\VHMS_Sep202016\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_Sep202016\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\VHMS_Sep202016\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_Latest\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\VHMS_Latest\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_Latest\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\VHMS_Latest\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_Latest\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+E:\Office Work\VHMS_Latest\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Office Work\VHMS_Latest\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Office Work\VHMS_Latest\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+E:\Office Work\VHMS_Latest\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Office Work\VHMS_Latest\VHMS_BE\obj\Debug\VHMS_BE.pdb
+D:\Sowjanya_Vhms\vhms_sever23\VHMS_BE\bin\Debug\VHMS_BE.dll
+D:\Sowjanya_Vhms\vhms_sever23\VHMS_BE\bin\Debug\VHMS_BE.pdb
+D:\Sowjanya_Vhms\vhms_sever23\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+D:\Sowjanya_Vhms\vhms_sever23\VHMS_BE\obj\Debug\VHMS_BE.dll
+D:\Sowjanya_Vhms\vhms_sever23\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\vhms_sever23\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\vhms_sever23\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\vhms_sever23\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+E:\Sailaja\WorkingArea\VHMS\vhms_sever23\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\vhms_sever23\VHMS_BE\obj\Debug\VHMS_BE.pdb
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BE.dll
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BE.pdb
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BL.dll
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_DL.dll
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BL.pdb
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_DL.pdb
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\obj\Debug\VHMS_BE.dll
+D:\Sowjanya_Vhms\VHMS_07102016\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BL.dll
+E:\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_DL.dll
+E:\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_BL.pdb
+E:\VHMS_07102016\VHMS_BE\bin\Debug\VHMS_DL.pdb
+E:\VHMS_07102016\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+E:\VHMS_07102016\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\VHMS_07102016\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+D:\Ramesh\vhmsuk\VHMS_BE\bin\Debug\VHMS_BE.dll
+D:\Ramesh\vhmsuk\VHMS_BE\bin\Debug\VHMS_BE.pdb
+D:\Ramesh\vhmsuk\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+D:\Ramesh\vhmsuk\VHMS_BE\obj\Debug\VHMS_BE.dll
+D:\Ramesh\vhmsuk\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS_UK_Dec142017\vhmsuk\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS_UK_Dec142017\vhmsuk\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS_UK_Dec142017\vhmsuk\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+E:\Sailaja\WorkingArea\VHMS_UK_Dec142017\vhmsuk\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS_UK_Dec142017\vhmsuk\VHMS_BE\obj\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS_India\VHMS_BE\bin\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS_India\VHMS_BE\bin\Debug\VHMS_BE.pdb
+E:\Sailaja\WorkingArea\VHMS_India\VHMS_BE\obj\Debug\VHMS_BE.csprojResolveAssemblyReference.cache
+E:\Sailaja\WorkingArea\VHMS_India\VHMS_BE\obj\Debug\VHMS_BE.dll
+E:\Sailaja\WorkingArea\VHMS_India\VHMS_BE\obj\Debug\VHMS_BE.pdb

@@ -1,0 +1,176 @@
+﻿<html>
+<head>
+    </br>
+    <meta charset="iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles/main.css" rel="Stylesheet" type="text/css" media="all" />
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+    <link href="styles/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+    <!--[if lt IE 9]>
+<link href="/styles/ie/ie8.css" rel="stylesheet" type="text/css" media="all">
+<script src="/scripts/ie/css3-mediaqueries.min.js"></script>
+<script src="/scripts/ie/html5shiv.min.js"></script>
+<![endif]-->
+    <script src="js/jquery-latest.min.js" type="text/javascript"></script>
+    <style type="text/css">
+        #profile_tab
+        {
+            border-collapse: collapse;
+        }
+        
+        #profile_tab td
+        {
+            border: 1px dotted #666666;
+        }
+        
+        #example
+        {
+            border-collapse: collapse;
+        }
+        
+        #example td
+        {
+            border: 1px dotted #666666;
+        }
+        
+        table
+        {
+            color: #000;
+        }
+        </style>
+    <script type="text/javascript">
+        window.history.forward(1);
+        function noBack() {
+            window.history.forward();
+        }
+    </script>
+</head>
+<body onload="noBack()">
+    <div class="wrapper row1">
+        <header id="header" class="full_width clear">
+ <img src="images/header.PNG" />
+
+&nbsp;</header>
+    </div>
+    <div class="wrapper row2">
+        <nav id="topnav">
+<ul class="clear">
+    
+<a href="index.htm"><img src="styles/home4.png" style="float:left;padding:7px; 20px; 5px; 20px;" ></a>
+
+<li><a href="#">Home</a></li>
+
+
+
+<li><a href="#">About VHMS</a></li>
+<li><a href="#">Registration</a>
+  <ul>
+ <li style="font-size: medium;"><a href="P_FeeCollected_Rpt.aspx">Fee Collected</a></li>
+ <li style="font-size: medium;"><a href="P_Visit_RevistCnt_Rpt.aspx">Paitent Registration Statistics</a></li> 
+ <li style="font-size: medium;"><a href="P_Rpt_DA_PatientVisits.aspx">Data Analysis</a></li> 
+ 
+ </ul>
+ </li>
+ <li><a href="#">Pharmacy</a>
+  <ul>
+  <li style="font-size: medium;"><a href="P_Rpt_DrugsAvailability.aspx">Drugs Availability</a></li>
+ <li style="font-size: medium;"><a href="P_Rpt_PH_DailyStocksRcvd.aspx">Daily Stocks Received</a></li>
+ <li style="font-size: medium;"><a href="P_Rpt_PH_DailyStocksIssued.aspx">Daily Stocks Issued</a></li>
+ </ul>
+ </li>
+ <li><a href="#">Diagnostics</a>
+  <ul>
+ <li style="font-size: medium;"><a href="P_DiagFeeCollected_Rpt.aspx">Diagnostic Test Fee</a></li>
+ </ul>
+ </li>
+<li style="float:right;"><a href="login.aspx">Dept. Login</a></li>
+
+</ul>
+    </div>
+    <!-- content -->
+    <div class="wrapper row3">
+        <div id="container">
+            <div id="sidebar_1" class="sidebar one_quarter first">
+                <li style="float: right;"><a href='#' id='time'></a></li>
+                <h2>
+                </h2>
+                <script type="text/javascript">
+                    tday = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+                    tmonth = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+
+                    function GetClock() {
+                        d = new Date();
+                        nday = d.getDay();
+                        nmonth = d.getMonth();
+                        ndate = d.getDate();
+                        nyear = d.getYear();
+                        nhour = d.getHours();
+                        nmin = d.getMinutes();
+                        nsec = d.getSeconds();
+
+                        if (nyear < 1000) nyear = nyear + 1900;
+
+                        if (nhour == 0) { ap = " AM"; nhour = 12; }
+                        else if (nhour <= 11) { ap = " AM"; }
+                        else if (nhour == 12) { ap = " PM"; }
+                        else if (nhour >= 13) { ap = " PM"; nhour -= 12; }
+
+                        if (nmin <= 9) { nmin = "0" + nmin; }
+                        if (nsec <= 9) { nsec = "0" + nsec; }
+
+
+                        document.getElementById('time').innerHTML = "" + tday[nday] + ", " + tmonth[nmonth] + " " + ndate + ", " + nyear + " " + nhour + ":" + nmin + ":" + nsec + ap + "";
+                        setTimeout("GetClock()", 1000);
+                    }
+                    window.onload = GetClock;
+                </script>
+                <div align="center">
+                </div>
+            </div>
+            <div class="three_quarter">
+                <section class="clear">
+ 
+    <h1><font color="#800000">Welcome To VHMS System:</font></h1>
+
+    <p align="left" class="stylenew" 
+        style="font-family: Verdana; font-size: 14px; color: rgb(0, 51, 102); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-color: rgb(255, 255, 255);">
+        <strong class="stylenew" 
+            style="font-family: Verdana; font-size: 14px; color: red;"><br />
+        </strong>
+        <br />
+       VHMS Provides for computerization of main functions of veterinary hospitals like Registration, Drug inventory, Drugs issue to patients, Diagnostics, Billing and MIS reports to management for effective super vision over hospital services.</p>
+
+   <!-- <p align="left" class="stylenew" 
+        style="font-family: Verdana; font-size: 14px; color: rgb(0, 51, 102); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-color: rgb(255, 255, 255);">
+        The Hospital has distinct wards covering different specialized areas viz. 
+        Medicine, Surgery and Gynaecology, which are manned by postgraduate doctors in 
+        their respective fields.<span class="Apple-converted-space">&nbsp;</span><br />
+    </p>
+    <p align="left" class="stylenew" 
+        style="font-family: Verdana; font-size: 14px; color: rgb(0, 51, 102); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-color: rgb(255, 255, 255);">
+        The Hospital has been provided with diagnostic equipment and a clinical 
+        laboratory to carry out the routine investigations which aid in accurate and 
+        early diagnosis of the diseases and treatment.</p>-->
+
+</section>
+            </div>
+            <div class="clear">
+            </div>
+            <div class="wrapper row4">
+                <div id="copyright" class="clear">
+                    <p>
+                        Designed, Developed and Hosted by 
+                        National Informatics Center(TS), Hyderabad. </p>
+                </div>
+                <!-- Scripts -->
+                <script src="/scripts/jquery-latest.min.js"></script>
+                <script src="/scripts/jquery-ui.min.js"></script>
+                <script>                    window.jQuery || document.write('<script src="/scripts/jquery-latest.min.js"><\/script>\
+<script src="/scripts/jquery-ui.min.js"><\/script>')</script>
+                <script>                    jQuery(document).ready(function ($) { $('img').removeAttr('width height'); });</script>
+                <script src="/scripts/jquery-mobilemenu.min.js"></script>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

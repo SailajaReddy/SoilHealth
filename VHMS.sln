@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VHMS", "VHMS\", "{983EF225-99F1-4F8F-8FDA-7D027CBE5824}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "Svn"
+		SccAuxPath = "Svn"
+		SccLocalPath = "Svn"
+		SccProvider = "SubversionScc"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{7EA51921-F0D7-4021-A39C-523980F4F228}|VHMS_BL.dll;{82558D4E-C420-4447-8CD0-2CD0242BD59E}|VHMS_DL.dll;{B5805278-544A-4476-A6EB-692D0BB03A1D}|VHMS_BE.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/VHMS"
+		Debug.AspNetCompiler.PhysicalPath = "VHMS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VHMS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/VHMS"
+		Release.AspNetCompiler.PhysicalPath = "VHMS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\VHMS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2912"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHMS_BE", "VHMS_BE\VHMS_BE.csproj", "{B5805278-544A-4476-A6EB-692D0BB03A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHMS_BL", "VHMS_BL\VHMS_BL.csproj", "{7EA51921-F0D7-4021-A39C-523980F4F228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHMS_DL", "VHMS_DL\VHMS_DL.csproj", "{82558D4E-C420-4447-8CD0-2CD0242BD59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983EF225-99F1-4F8F-8FDA-7D027CBE5824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983EF225-99F1-4F8F-8FDA-7D027CBE5824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983EF225-99F1-4F8F-8FDA-7D027CBE5824}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{983EF225-99F1-4F8F-8FDA-7D027CBE5824}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B5805278-544A-4476-A6EB-692D0BB03A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5805278-544A-4476-A6EB-692D0BB03A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5805278-544A-4476-A6EB-692D0BB03A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5805278-544A-4476-A6EB-692D0BB03A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA51921-F0D7-4021-A39C-523980F4F228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA51921-F0D7-4021-A39C-523980F4F228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA51921-F0D7-4021-A39C-523980F4F228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA51921-F0D7-4021-A39C-523980F4F228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82558D4E-C420-4447-8CD0-2CD0242BD59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82558D4E-C420-4447-8CD0-2CD0242BD59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82558D4E-C420-4447-8CD0-2CD0242BD59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82558D4E-C420-4447-8CD0-2CD0242BD59E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
